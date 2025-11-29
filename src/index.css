@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+@theme {
+  --color-Blue-950: hsl(240, 38%, 20%);
+  --color-Gray-400: hsl(240, 18%, 77%);
+
+  --font-display: "Inter", sans-serif;
+}
